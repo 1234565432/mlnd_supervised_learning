@@ -31,9 +31,9 @@ class Perceptron:
         strength = np.dot(self.weights, inputs)
         # TODO: return 0 or 1 based on the threshold
         if strength <= self.threshold:
-            self.result =  # TODO
+            self.result =  0 # TODO
         else:
-            self.result =  # TODO
+            self.result =  1 # TODO
         return self.result
 
 
@@ -46,6 +46,7 @@ def test():
     assert p1.activate(np.array([1, -1])) == 0  # < threshold --> 0
     assert p1.activate(np.array([-1, 1])) == 1  # > threshold --> 1
     assert p1.activate(np.array([2, -1])) == 0  # on threshold --> 0
+    print 'test ok'
 
 
 if __name__ == "__main__":
