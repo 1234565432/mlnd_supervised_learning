@@ -9,3 +9,12 @@
 7：聚类分析（Cluster analysis）
 8:最小二乘（Least squares）
 9:核机制（kernel trick）
+
+能够在 scikit-learn 中选择使用的一些监督学习模型 P2
+1：高斯朴素贝叶斯 (GaussianNB)
+2：决策树 (DecisionTree)
+3：集成方法 (Bagging, AdaBoost, Random Forest, Gradient Boosting)
+4：K近邻 (K Nearest Neighbors)
+5：随机梯度下降分类器 (SGDC)
+6：支撑向量机 (SVM)
+7：Logistic回归（LogisticRegression）
