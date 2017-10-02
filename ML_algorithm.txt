@@ -1,16 +1,16 @@
-机器学习常用算法和概念 P0
+机器学习常用算法和概念
 
-1：朴素贝叶斯（Naive Bayes）检查垃圾邮件
-2：决策树（Decision tree）推荐应用
-3：线性回归（Linear Regression）预测房价
-4：逻辑回归（Logistic Regression）建模
-5：支持向量机（Support Vector Machines）建模
+1：朴素贝叶斯（Naive Bayes）
+2：决策树（Decision tree）
+3：线性回归（Linear Regression）
+4：逻辑回归（Logistic Regression）
+5：支持向量机（Support Vector Machines）
 6：神经网络（Neural Networks）
 7：聚类分析（Cluster analysis）
 8:最小二乘（Least squares）
 9:核机制（kernel trick）
 
-能够在 scikit-learn 中选择使用的一些监督学习模型 P2
+scikit-learn 中选择使用的一些监督学习模型
 1：高斯朴素贝叶斯 (GaussianNB)
 2：决策树 (DecisionTree)
 3：集成方法 (Bagging, AdaBoost, Random Forest, Gradient Boosting)
