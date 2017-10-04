@@ -10,7 +10,7 @@
 8:最小二乘（Least squares）
 9:核机制（kernel trick）
 
-scikit-learn 中选择使用的一些监督学习模型
+scikit-learn 中的一些监督学习模型
 1：高斯朴素贝叶斯 (GaussianNB)
 2：决策树 (DecisionTree)
 3：集成方法 (Bagging, AdaBoost, Random Forest, Gradient Boosting)
