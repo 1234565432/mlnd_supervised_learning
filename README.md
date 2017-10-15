@@ -1,2 +1,3 @@
-# MLND
-Udacity 机器学习进阶纳米学位学习笔记，本仓库主要涉及P0和P2项目内容，即机器学习基础和监督学习部分，P1项目内容在 Model_evaluation_validation 仓库
+# mlnd_supervised_learning
+
+Udacity机器学习纳米学位中监督学习笔记
